@@ -1,5 +1,24 @@
-# 💫 About Me:
-### Vivek Jaiswal<br>👨‍💻 Software Development Enthusiast | Web Developer | ECE Student | Open Source Contributor<br><br>Hey there! I'm Vivek Jaiswal, a passionate 3rd year B.Tech student majoring in Electronics and Communication Engineering (ECE), with a strong affinity for software development. I thrive on turning ideas into code and creating innovative solutions that make an impact.<br><br>🌐 **Web Development**: I'm well-versed in the realm of web development, leveraging my skills in HTML, CSS, and JavaScript to craft engaging and responsive user interfaces. I'm committed to delivering seamless user experiences that balance aesthetics with functionality.<br><br>🔍 **DSA in Java**: I have a solid grasp of Data Structures and Algorithms, and I love solving complex problems using Java. Optimizing algorithms and tackling coding challenges is my idea of a good time.<br><br>🚀 **Constant Learner**: I believe that learning is a lifelong journey. I'm always on the lookout for exciting opportunities to expand my skill set and delve into new technologies. My curiosity drives me to explore emerging trends in the software development landscape.<br><br>🤝 **Open Source Enthusiast**: I'm an advocate for the power of collaboration and contribute to open source projects whenever I can. Working alongside other passionate developers not only helps me improve my skills but also allows me to give back to the community that has nurtured my growth.<br><br>🌟 **Goals**: My goal is to combine my ECE background with my software development prowess to create innovative solutions that bridge the gap between hardware and software, unlocking new possibilities in technology.<br><br>Feel free to explore my GitHub repositories to see the projects I've been working on and the solutions I've crafted. Don't hesitate to reach out if you're interested in collaboration, have questions, or just want to geek out about code!<br><br>Happy coding! 🚀
+# 💫 About Me
+
+### Vivek Jaiswal
+
+👨‍💻 **Software Developer | Web Developer | ECE Student | Open Source Contributor**
+
+Hi! I'm Vivek, a 3rd-year B.Tech student in Electronics and Communication Engineering (ECE), passionate about software development.
+
+🌐 **Web Development**: Skilled in HTML, CSS, and JavaScript to create responsive and engaging user interfaces.
+
+🔍 **DSA in Java**: Enjoy solving complex problems with a strong grasp of Data Structures and Algorithms.
+
+🚀 **Constant Learner**: Always exploring new technologies to expand my skill set.
+
+🤝 **Open Source Enthusiast**: Contribute to open source projects, collaborating with developers and giving back to the community.
+
+🌟 **Goals**: Combine ECE knowledge with software development to bridge the gap between hardware and software.
+
+Check out my GitHub for projects and solutions. Feel free to reach out!
+
+Happy coding! 🚀
 
 
 # 💻 Tech Stack:
